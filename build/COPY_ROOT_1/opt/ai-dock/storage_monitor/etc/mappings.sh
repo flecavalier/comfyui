@@ -37,5 +37,6 @@ storage_map["stable_diffusion/models/sams"]="/opt/ComfyUI/models/sams"
 storage_map["stable_diffusion/models/t5"]="/opt/ComfyUI/models/t5"
 storage_map["stable_diffusion/models/xlabs"]="/opt/ComfyUI/models/xlabs"
 storage_map["stable_diffusion/models/configs"]="/opt/ComfyUI/models/configs"
+storage_map["stable_diffusion/models/text_encoders"]="/opt/ComfyUI/models/text_encoders"
 
 # Add more mappings for other repository directories as needed
